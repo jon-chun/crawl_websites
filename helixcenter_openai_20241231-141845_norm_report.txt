@@ -1,0 +1,1020 @@
+=== NORMALIZATION REPORT ===
+
+
+KEYWORDS
+--------
+
+
+Normalized Term: Artificial Intelligence
+Original Terms:
+  - AI
+  - artificial intelligence
+  - artificial minds
+
+Normalized Term: Aesthetics
+Original Terms:
+  - Aesthetics
+  - aesthetic
+  - aesthetics
+
+Normalized Term: Astrobiology
+Original Terms:
+  - Astrobiology
+  - astrobiology
+
+Normalized Term: Personality Theory
+Original Terms:
+  - Jung’s personality types theory
+  - Myers-Briggs Type Indicator
+  - Pauli-Jung Conjecture
+
+Normalized Term: Mathematics
+Original Terms:
+  - Mathematical Concepts
+  - Mathematical Models
+  - Mathematical Revolutions
+  - Mathematics
+  - Number Formalization
+
+Normalized Term: Psychology
+Original Terms:
+  - Mind
+  - Psychology
+
+Normalized Term: Music
+Original Terms:
+  - Music
+  - Musical Meaning
+
+Normalized Term: Philosophy
+Original Terms:
+  - Ontology
+  - Philosophy
+
+Normalized Term: Aby Warburg's Ideas
+Original Terms:
+  - Warburg's ideas
+  - Warburg’s ideas
+
+Normalized Term: Animal Communication
+Original Terms:
+  - animal communication
+  - animal language
+
+Normalized Term: Art
+Original Terms:
+  - art
+  - arts
+
+Normalized Term: beliefs
+Original Terms:
+  - belief
+  - beliefs
+
+Normalized Term: neuroscience
+Original Terms:
+  - brain science
+  - brain/mind
+  - mind and brain research
+  - neuroscience
+
+Normalized Term: coding
+Original Terms:
+  - codes
+  - coding
+
+Normalized Term: cosmology
+Original Terms:
+  - cosmological
+  - cosmology
+
+Normalized Term: culture
+Original Terms:
+  - culture
+  - human culture
+
+Normalized Term: emotion
+Original Terms:
+  - emotion
+  - emotions
+
+Normalized Term: experience
+Original Terms:
+  - experience
+  - human experience
+
+Normalized Term: metaphysics
+Original Terms:
+  - experimental metaphysics
+  - metaphysics
+
+Normalized Term: extraterrestrial life
+Original Terms:
+  - extraterrestrial life
+  - life in the universe
+
+Normalized Term: misinformation
+Original Terms:
+  - false narratives
+  - falsehood
+  - misinformation
+
+Normalized Term: history
+Original Terms:
+  - historical context
+  - historical perspective
+  - history
+
+Normalized Term: knowledge
+Original Terms:
+  - human knowledge
+  - knowledge
+
+Normalized Term: migration
+Original Terms:
+  - mass migration
+  - migration
+
+Normalized Term: mathematics
+Original Terms:
+  - mathematical
+  - mathematics
+
+Normalized Term: mental health disorders
+Original Terms:
+  - mental disorders
+  - mental illness
+
+Normalized Term: mind-body relationship
+Original Terms:
+  - mind-body connection
+  - mind-body influence
+
+Normalized Term: technology
+Original Terms:
+  - modern technology
+  - technology
+
+Normalized Term: nature
+Original Terms:
+  - nature
+  - nature of Nature
+
+Normalized Term: philosophy
+Original Terms:
+  - philosophical
+  - philosophy
+
+Normalized Term: poetry
+Original Terms:
+  - poems
+  - poetry
+
+Normalized Term: psychology
+Original Terms:
+  - psychological
+  - psychology
+
+Normalized Term: quantum physics
+Original Terms:
+  - quantum mechanics
+  - quantum theory
+
+Normalized Term: science
+Original Terms:
+  - science
+  - sciences
+
+Normalized Term: scientific research
+Original Terms:
+  - scientific quests
+  - scientific study
+
+Normalized Term: social interactions
+Original Terms:
+  - social influences
+  - social mechanism
+
+Normalized Term: sound waves
+Original Terms:
+  - sonic waves
+  - sonics
+  - sound
+
+Normalized Term: theology
+Original Terms:
+  - theological
+  - theology
+
+Normalized Term: truth
+Original Terms:
+  - truth
+  - truth and falsehood
+
+Normalized Term: visualization
+Original Terms:
+  - visualization
+  - visualizations
+
+INSTITUTIONS
+------------
+
+
+Normalized Term: American Psychoanalytic Association
+Original Terms:
+  - APsaA
+  - American Psychoanalytic Association
+
+Normalized Term: Apres-Coup Psychoanalytic Association
+Original Terms:
+  - Apres-Coup Psychoanalytic Association
+  - Après-Coup Psychoanalytic Association
+
+Normalized Term: Austen Riggs Center
+Original Terms:
+  - Austen Riggs Center
+  - the Austen Riggs Center
+
+Normalized Term: Brooklyn College, CUNY
+Original Terms:
+  - Brooklyn College of the City, University of New York
+  - Brooklyn College, CUNY
+
+Normalized Term: CUNY Graduate Center
+Original Terms:
+  - CUNY Graduate Center
+  - The Graduate Center, CUNY
+
+Normalized Term: California Institute of Technology
+Original Terms:
+  - California Institute of Technology
+  - Caltech
+
+Normalized Term: University of Cambridge
+Original Terms:
+  - Cambridge University
+  - University of Cambridge
+
+Normalized Term: Columbia University
+Original Terms:
+  - Columbia
+  - Columbia University
+
+Normalized Term: Columbia University Irving Medical Center
+Original Terms:
+  - Columbia Presbyterian Medical Center
+  - Columbia University Irving Medical Center
+  - Columbia University Medical Center
+
+Normalized Term: Teachers College, Columbia University
+Original Terms:
+  - Columbia Teachers College
+  - Teachers College, Columbia University
+
+Normalized Term: Columbia University Center for Psychoanalytic Training and Research
+Original Terms:
+  - Columbia University Center for Psychoanalytic Training & Research
+  - Columbia University Center for Psychoanalytic Training and Research
+
+Normalized Term: Columbia University Vagelos College of Physicians and Surgeons
+Original Terms:
+  - Columbia University College of Physicians & Surgeons
+  - Columbia University College of Physicians and Surgeons
+  - Vagelos College of Physicians and Surgeons
+
+Normalized Term: Harvard University
+Original Terms:
+  - Harvard
+  - Harvard University
+
+Normalized Term: School of Social Work, Howard University
+Original Terms:
+  - Howard University School of Social Work
+  - School of Social Work, Howard University
+
+Normalized Term: IBM T.J. Watson Research Center
+Original Terms:
+  - IBM T.J.Watson Research Center
+  - T.J. Watson IBM Research Lab
+
+Normalized Term: Icahn School of Medicine at Mount Sinai
+Original Terms:
+  - Icahn School of Medicine at Mount Sinai
+  - Icahn School of Medicine at Mt. Sinai
+  - Mount Sinai School of Medicine
+
+Normalized Term: Jungian Psychoanalytic Association
+Original Terms:
+  - Jungian Psychoanalytic Association
+  - Jungian Psychoanalytic Association in New York
+  - The Jungian Psychoanalytic Association
+
+Normalized Term: Massachusetts Institute of Technology
+Original Terms:
+  - MIT
+  - Massachusetts Institute of Technology
+
+Normalized Term: MacDowell Colony
+Original Terms:
+  - MacDowell Colony
+  - The MacDowell Colony
+
+Normalized Term: Mount Sinai Beth Israel
+Original Terms:
+  - Mount Sinai Beth Israel
+  - Mount Sinai Beth Israel Medical Center
+
+Normalized Term: New York University
+Original Terms:
+  - NYU
+  - New York University
+
+Normalized Term: NYU Grossman School of Medicine
+Original Terms:
+  - NYU Grossman School of Medicine
+  - NYU School of Medicine
+
+Normalized Term: The New School
+Original Terms:
+  - New School University
+  - The New School
+
+Normalized Term: The New School for Social Research
+Original Terms:
+  - New School for Social Research
+  - The New School for Social Research
+
+Normalized Term: New York-Presbyterian Hospital
+Original Terms:
+  - New York Presbyterian Medical Center
+  - New York Presbyterian hospital
+  - New York-Presbyterian Hospital
+
+Normalized Term: New York Psychoanalytic Society and Institute
+Original Terms:
+  - New York Psychoanalytic Society & Institute
+  - New York Psychoanalytic Society and Institute
+
+Normalized Term: The New York Times
+Original Terms:
+  - New York Times
+  - The New York Times
+
+Normalized Term: Nizhniy Novgorod State Conservatory
+Original Terms:
+  - Nizhniy Novgorod State Conservatory
+  - Nizhniy Novgorod State Conservatory, Russia
+
+Normalized Term: University of Oxford
+Original Terms:
+  - Oxford
+  - Oxford University
+  - University of Oxford
+
+Normalized Term: Rockefeller University
+Original Terms:
+  - Rockefeller University
+  - The Rockefeller University
+
+Normalized Term: Rutgers University, Newark
+Original Terms:
+  - Rutgers University-Newark
+  - Rutgers-Newark
+
+Normalized Term: Stanford University
+Original Terms:
+  - Stanford
+  - Stanford University
+
+Normalized Term: The Helix Center
+Original Terms:
+  - The Helix Center
+  - The Helix Center for Interdisciplinary Investigation
+
+Normalized Term: University of Texas at Dallas
+Original Terms:
+  - The University of Texas at Dallas
+  - University of Texas at Dallas
+
+Normalized Term: University of Minnesota
+Original Terms:
+  - U Minnesota
+  - University of Minnesota
+
+Normalized Term: University of California, Berkeley
+Original Terms:
+  - U.C. Berkeley
+  - UC Berkeley
+  - University of California at Berkeley
+  - University of California, Berkeley
+
+Normalized Term: University of California, San Diego
+Original Terms:
+  - U.C. San Diego
+  - University of California, San Diego
+
+Normalized Term: University College London
+Original Terms:
+  - UCL
+  - University College London
+
+Normalized Term: University of California, San Francisco
+Original Terms:
+  - UCSF
+  - University of California, San Francisco
+
+Normalized Term: University of California, Santa Barbara
+Original Terms:
+  - University of California, Santa Barbara
+  - the University of California, Santa Barbara
+
+Normalized Term: University of Chicago
+Original Terms:
+  - University of Chicago
+  - University of Chicago Medical School
+
+Normalized Term: University of Lausanne
+Original Terms:
+  - University of Lausanne
+  - Université de Lausanne
+
+Normalized Term: University of Michigan
+Original Terms:
+  - University of Michigan
+  - University of Michigan at Ann Arbor
+
+Normalized Term: University of Pennsylvania
+Original Terms:
+  - University of Pennsylvania
+  - University of Pennsylvania’s Center for Neuroscience & Society
+
+Normalized Term: University of Paris
+Original Terms:
+  - Université Paris-Diderot
+  - Université de Paris VII
+
+Normalized Term: Weill Cornell Medicine
+Original Terms:
+  - Weill Cornell Cancer Center
+  - Weill Cornell Department of Psychiatry
+  - Weill Cornell Medical College
+  - Weill Cornell Medicine
+  - Weill-Cornell Medical College
+
+Normalized Term: Yale University
+Original Terms:
+  - Yale
+  - Yale University
+
+SPECIALITIES
+------------
+
+
+Normalized Term: 3D Sound Technology
+Original Terms:
+  - 3D Sound technology
+  - 3D sound technology
+
+Normalized Term: Artificial Intelligence
+Original Terms:
+  - AI
+  - Artificial Intelligence
+  - artificial intelligence
+
+Normalized Term: Artificial Intelligence Ethics
+Original Terms:
+  - AI Ethics
+  - AI ethics
+
+Normalized Term: Aesthetics
+Original Terms:
+  - Aesthetics
+  - aesthetics
+  - contemporary aesthetics
+  - experience of beauty
+
+Normalized Term: African American Studies
+Original Terms:
+  - African American Philosophy
+  - African American Studies
+
+Normalized Term: American History
+Original Terms:
+  - American Political History
+  - American Social and Urban History
+
+Normalized Term: Anesthesiology
+Original Terms:
+  - Anesthesiology
+  - anesthesiology
+
+Normalized Term: Anthropology
+Original Terms:
+  - Anthropology
+  - Cultural Anthropology
+
+Normalized Term: Applied Physics
+Original Terms:
+  - Applied Physics
+  - applied physics
+
+Normalized Term: Art
+Original Terms:
+  - Art
+  - art
+
+Normalized Term: Art History
+Original Terms:
+  - Art History
+  - art history
+  - still life motifs
+
+Normalized Term: Astrobiology
+Original Terms:
+  - Astrobiology
+  - astrobiology
+
+Normalized Term: Astronomy
+Original Terms:
+  - Astronomy
+  - space exploration
+
+Normalized Term: Astrophysics
+Original Terms:
+  - Astrophysical Sciences
+  - Astrophysics
+  - Cosmic Affairs
+  - Cosmology
+  - Observational cosmology
+  - Particle Astrophysics
+  - astrophysics
+  - exoplanetary science
+  - fine-tuning of the universe
+  - interplanetary spacecraft missions
+
+Normalized Term: Audio Storytelling
+Original Terms:
+  - Audio storytelling
+  - audio storytelling
+
+Normalized Term: Economics
+Original Terms:
+  - Austrian Economics
+  - Behavioral Economics
+  - Economics
+  - economics
+
+Normalized Term: Literature
+Original Terms:
+  - Authorship
+  - Comparative Literature
+  - Comparative Literature and Humanities
+  - Criticism
+  - Literature
+  - fiction
+  - landscape and environmental poetry
+  - literary biography
+  - literature
+  - memoir
+
+Normalized Term: Autism Studies
+Original Terms:
+  - Autism Risk Factors
+  - Autism Spectrum Disorders
+
+Normalized Term: Bioethics
+Original Terms:
+  - Bioethics
+  - bioethics
+
+Normalized Term: Biology
+Original Terms:
+  - Biology
+  - Computational Biology
+  - Computational Biology and Medicine
+  - biology
+
+Normalized Term: Child and Adolescent Psychiatry
+Original Terms:
+  - Child and Adolescent Psychiatry
+  - Psychiatry and Child & Adolescent Psychiatry
+
+Normalized Term: Cognitive Science
+Original Terms:
+  - Cognition and Social Behavior
+  - Cognitive Ability
+  - Cognitive Development
+  - Cognitive Neuroscience
+  - Cognitive Psychology
+  - Cognitive Science
+  - Cognitive ability
+  - Cognitive loss
+  - Cognitive neuroscience
+  - Cognitive, Linguistic, and Psychological Sciences
+  - Collective Intelligence
+  - cognitive science
+  - cognitive sciences
+  - cognitive theories
+  - emotional memories
+  - human mental and physical ‘operating system’
+
+Normalized Term: Communications
+Original Terms:
+  - Communications Strategy
+  - Culture & Communication
+
+Normalized Term: Exoplanetary Science
+Original Terms:
+  - Comparative exoplanetary science
+  - Exoplanetary Science
+
+Normalized Term: Psychology
+Original Terms:
+  - Compulsion
+  - Consciousness
+  - Creativity
+  - Parenting
+  - Performance and Test Stress
+  - Psychology
+  - psychology
+
+Normalized Term: Computer Science
+Original Terms:
+  - Computation
+  - Computer Science
+  - Computer Virus Epidemiology
+  - Computer Vision Algorithms
+  - Cryptography
+  - machine learning
+
+Normalized Term: Journalism
+Original Terms:
+  - Computational Journalism
+  - Journalism
+  - journalism
+
+Normalized Term: Neuroscience
+Original Terms:
+  - Computational Neuroscience
+  - Neuroimaging research
+  - Neurolaw
+  - Neurology
+  - Neurology and Neuroscience
+  - Neuroplasticity
+  - Neuroregeneration
+  - Neuroscience
+  - Neuroscience and Society
+  - Neurotrophic Growth Factors
+  - Olfactory information processing
+  - Olfactory psychophysics
+  - neuroscience
+
+Normalized Term: Psychiatry
+Original Terms:
+  - Computational Psychiatry
+  - Psychiatry
+  - clinical psychiatry
+  - psychiatry
+
+Normalized Term: Physics
+Original Terms:
+  - Constructal Law
+  - Coordination Dynamics
+  - Cosmological Physics
+  - Particle Physics
+  - Physics
+  - physics
+
+Normalized Term: Writing
+Original Terms:
+  - Creative Writing
+  - Creative nonfiction writing
+  - Writing
+  - writing
+
+Normalized Term: Law
+Original Terms:
+  - Criminal Justice
+  - Law
+
+Normalized Term: History
+Original Terms:
+  - Cultural History of Animals
+  - Cultural history
+  - History
+  - history
+
+Normalized Term: Sociology
+Original Terms:
+  - Cultural Sociology
+  - Cultural and Intellectual Authorities
+  - Sociology
+  - society
+  - sociology
+
+Normalized Term: Education
+Original Terms:
+  - Education
+  - Pedagogy
+  - education
+
+Normalized Term: Engineering
+Original Terms:
+  - Engineering
+  - Mastering Engineering
+
+Normalized Term: English Literature
+Original Terms:
+  - English Literature
+  - English literature
+  - Literatures in English
+
+Normalized Term: Environmental Studies
+Original Terms:
+  - Environmental Studies
+  - environmental studies
+  - human impact on Earth systems
+
+Normalized Term: Epistemology
+Original Terms:
+  - Epistemology
+  - epistemology
+
+Normalized Term: European History
+Original Terms:
+  - European History
+  - European history
+  - Modern European History
+
+Normalized Term: Genomics
+Original Terms:
+  - Genomics
+  - translational genomics
+
+Normalized Term: History of Science
+Original Terms:
+  - History of Science
+  - history of science
+  - premodern sciences
+
+Normalized Term: Jungian Psychoanalysis
+Original Terms:
+  - Jungian Psychoanalysis
+  - Jungian analysis
+
+Normalized Term: Linguistics
+Original Terms:
+  - Language
+  - Linguistics
+  - language processing
+  - linguistic time machine
+  - linguistics
+
+Normalized Term: Literary Studies
+Original Terms:
+  - Literary Scholarship
+  - literary consulting
+
+Normalized Term: Mathematics
+Original Terms:
+  - Math
+  - Mathematics
+  - Number Theory
+  - mathematics
+
+Normalized Term: Media Studies
+Original Terms:
+  - Media
+  - News Media
+  - media content and effects
+
+Normalized Term: Music Production
+Original Terms:
+  - Music Production
+  - Music production
+  - music show production
+
+Normalized Term: Music Psychology
+Original Terms:
+  - Music Psychology
+  - emotional responses to music
+
+Normalized Term: Neuropsychiatry
+Original Terms:
+  - Neuropsychiatric Diseases
+  - Neuropsychiatry
+
+Normalized Term: Religious Studies
+Original Terms:
+  - New Testament
+  - religion
+  - religious environmentalism
+
+Normalized Term: Organizational Studies
+Original Terms:
+  - Organizational Culture
+  - Organizational Development
+
+Normalized Term: Pain Medicine
+Original Terms:
+  - Pain
+  - Pain & Translational Symptom Science
+  - Pain Medicine
+
+Normalized Term: Pathology
+Original Terms:
+  - Pathology
+  - Pathology & Cell Biology
+
+Normalized Term: Pediatrics
+Original Terms:
+  - Pediatrics
+  - Pediatrics and Psychiatry
+
+Normalized Term: Pharmacology
+Original Terms:
+  - Pharmacology
+  - endocannabinoids
+
+Normalized Term: Philosophy
+Original Terms:
+  - Philosophical Anthropology
+  - Philosophy
+  - Philosophy and Aesthetics
+  - Philosophy of Mathematics
+  - Philosophy of Mind
+  - Philosophy of Religion
+  - Philosophy of mind and aesthetics
+  - Philosophy of olfaction
+  - philosophy
+  - process philosophy
+  - social philosophy
+
+Normalized Term: Plasma Physics
+Original Terms:
+  - Plasma Dynamics
+  - Plasma Physics
+
+Normalized Term: Political Science
+Original Terms:
+  - Political Science
+  - Politics
+  - political science
+
+Normalized Term: Psychoanalysis
+Original Terms:
+  - Psychoanalysis
+  - psychoanalysis
+
+Normalized Term: Psychology and Education
+Original Terms:
+  - Psychology and Education
+  - Psychology and Teaching
+
+Normalized Term: Public Policy
+Original Terms:
+  - Public Policy
+  - public policy
+
+Normalized Term: Science
+Original Terms:
+  - Science
+  - science
+
+Normalized Term: Shakespeare Studies
+Original Terms:
+  - Shakespeare studies
+  - Shakespearean studies
+
+Normalized Term: Social Science
+Original Terms:
+  - Social Science
+  - Social Sciences
+
+Normalized Term: South Asian Studies
+Original Terms:
+  - South Asia Studies
+  - South Asian Studies
+
+Normalized Term: Theoretical Physics
+Original Terms:
+  - Theoretical Physics
+  - supergravity
+  - superstring theory
+  - supersymmetry
+  - theoretical physics
+
+Normalized Term: Translation Studies
+Original Terms:
+  - Translation Studies
+  - translation
+  - translation studies
+
+Normalized Term: Visual Art
+Original Terms:
+  - Visual Art
+  - Visual arts
+
+Normalized Term: Animal Cognition
+Original Terms:
+  - canine cognition
+  - cetacean cognition
+  - comparative animal cognition
+
+Normalized Term: Music Conducting
+Original Terms:
+  - choral conducting
+  - conducting
+
+Normalized Term: Consciousness Studies
+Original Terms:
+  - consciousness
+  - consciousness studies
+
+Normalized Term: Creative Writing
+Original Terms:
+  - creative nonfiction writing
+  - poetry writing
+
+Normalized Term: Cryogenics
+Original Terms:
+  - cryogenic fluid mechanics
+  - cryogenic helium and stellar physics
+
+Normalized Term: Cultural Studies
+Original Terms:
+  - cultural criticism
+  - racial and cultural otherness
+  - theory and cultural studies
+
+Normalized Term: Digital Media
+Original Terms:
+  - digital environment
+  - digital media
+
+Normalized Term: Environmental Economics
+Original Terms:
+  - ecosystem services
+  - environmental and ecological economics
+
+Normalized Term: Ethics
+Original Terms:
+  - ethics
+  - intergenerational justice
+
+Normalized Term: Evolutionary Biology
+Original Terms:
+  - evolution
+  - evolution of intelligence
+
+Normalized Term: Genetics
+Original Terms:
+  - evolutionary genetics
+  - gene editing
+  - genetic research
+  - genomics
+  - human cloning
+  - human genetics
+  - human genomic research
+
+Normalized Term: Fluid Mechanics
+Original Terms:
+  - flow visualization
+  - fluid mechanics and turbulence
+
+Normalized Term: Quantum Physics
+Original Terms:
+  - foundations of quantum physics
+  - quantum field theory
+  - quantum foundations
+  - quantum information
+  - quantum information theory
+  - quantum theory
+  - quantum-optical physics
+  - relativistic quantum information
+
+Normalized Term: Literary Theory
+Original Terms:
+  - literary and cultural theory
+  - literary criticism
+  - literary theory
+
+Normalized Term: Publishing
+Original Terms:
+  - publications program
+  - publishing
+
+Normalized Term: Science and Religion
+Original Terms:
+  - religion and science
+  - science and theology
+
+Normalized Term: Technology Studies
+Original Terms:
+  - technological innovation
+  - technology
+
+Normalized Term: Visual Arts
+Original Terms:
+  - visual art
+  - visual arts
